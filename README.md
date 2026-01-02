@@ -27,10 +27,11 @@ Script ini dirancang khusus untuk lingkungan berikut:
 Ikuti urutan langkah di bawah ini dengan tepat agar script berjalan dengan normal.
 
 ### 1. Jalankan Monitor (Wajib)
-Script utama bergantung pada `monitor.py`. Jika monitor tidak berjalan, script utama tidak akan berfungsi. Gunakan `screen` agar berjalan di background.
+Script utama bergantung pada `monitor.py`. Jika monitor tidak berjalan, script utama tidak akan berfungsi.
 
 
 `screen -dmS monitor python3 monitor.py`
+
 Note: Pastikan screen session monitor sudah aktif sebelum lanjut ke langkah berikutnya.
 ### 2. Jalankan Script Utama
 Setelah monitor aktif, jalankan script utama. Tidak perlu melakukan chmod (izin eksekusi), script dapat langsung dipanggil.

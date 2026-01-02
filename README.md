@@ -42,4 +42,6 @@ Setelah perintah di atas diketik, menu opsi dan cara penggunaan detail akan munc
 <div align="center">
 🛡️ Disclaimer
 Script ini dibuat untuk tujuan edukasi dan pengujian keamanan jaringan sendiri. Pengembang tidak bertanggung jawab atas penyalahgunaan alat ini.
+
+### 3. Jangan hapus script xu dan us ini hanya sebagai requirement aja.
 </div>

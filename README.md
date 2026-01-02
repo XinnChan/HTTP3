@@ -1,6 +1,6 @@
 <div align="center">
 
-# HTTP3
+# DDOS ATTACK HTTP/3 “MadeYouReset” – Force the target server to reset until it crashes and boom it explodes
 ### 🌊 RST STREAM HTTP3 CVE MADE YOU RESET 🌊
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)

@@ -29,7 +29,7 @@ Ikuti urutan langkah di bawah ini dengan tepat agar script berjalan dengan norma
 ### 1. Jalankan Monitor (Wajib)
 Script utama bergantung pada `monitor.py`. Jika monitor tidak berjalan, script utama tidak akan berfungsi. Gunakan `screen` agar berjalan di background.
 
-```bash
+
 screen -dmS monitor python3 monitor.py
 Note: Pastikan screen session monitor sudah aktif sebelum lanjut ke langkah berikutnya.
 2. Jalankan Script Utama
@@ -79,7 +79,7 @@ Ikuti urutan langkah di bawah ini dengan tepat agar script berjalan dengan norma
 
 Script utama bergantung pada `monitor.py`. Jika monitor tidak berjalan, script utama tidak akan berfungsi. Gunakan `screen` agar berjalan di background.
 
-```bash
+
 screen -dmS monitor python3 monitor.py
 Note: Pastikan screen session monitor sudah aktif sebelum lanjut ke langkah berikutnya.
 2. Jalankan Script Utama

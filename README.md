@@ -34,7 +34,9 @@ Script utama bergantung pada `monitor.py`. Jika monitor tidak berjalan, script u
 Note: Pastikan screen session monitor sudah aktif sebelum lanjut ke langkah berikutnya.
 ### 2. Jalankan Script Utama
 Setelah monitor aktif, jalankan script utama. Tidak perlu melakukan chmod (izin eksekusi), script dapat langsung dipanggil.
+
 `./3`
+
 Setelah perintah di atas diketik, menu opsi dan cara penggunaan detail akan muncul secara otomatis di layar Anda.
 <div align="center">
 🛡️ Disclaimer

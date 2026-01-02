@@ -20,7 +20,7 @@
 Script ini dirancang khusus untuk lingkungan berikut:
 * **Environment:** VPS (Linux) & Termux (Android).
 * **Access:** Wajib menggunakan access **Sudo** atau **Root**.
-* **Dependencies:** Tidak ada instalasi modul (`pip install`) yang diperlukan. Cukup Python bawaan.
+* **Dependencies:** Tidak ada instalasi modul selain (`pip install requests`) yang diperlukan.
 
 ## 🚀 Installation & Usage
 
@@ -44,7 +44,6 @@ Script ini dibuat untuk tujuan edukasi dan pengujian keamanan jaringan sendiri. 
 
 ### Tampilan Preview (Kira-kira seperti ini nanti hasilnya):
 
-&lt;div align=&quot;center&quot;&gt;
 
 # HTTP3
 
@@ -61,7 +60,6 @@ Script ini dibuat untuk tujuan edukasi dan pengujian keamanan jaringan sendiri. 
 
 -----
 
-&lt;/div&gt;
 
 ## ⚠️ Requirements & Compatibility
 
